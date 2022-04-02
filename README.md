@@ -1,10 +1,8 @@
-# thats-a-hint
+# Team - Algoristy
 
 <img width="100%" height = "100%" src="https://github.com/Tushargupta9800/thats-a-hint/blob/master/Screenshot%20from%202022-04-02%2023-26-41.png" alt="cover" />
 
 # [Click to See this Video Tutorial](https://www.youtube.com/watch?v=Q6DynVXO3cA&t=161s)
-
-# Team - Algoristy
 
 ## members
 * [Tushar Gupta](https://github.com/Tushargupta9800)
