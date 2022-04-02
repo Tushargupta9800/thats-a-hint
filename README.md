@@ -1,4 +1,11 @@
 # thats-a-hint
+# Team - Algoristy
+
+## members
+* [Tushar Gupta](https://github.com/Tushargupta9800)
+* [Abhishek Bhaware](https://github.com/cosmoimai)
+
+## Introduction
 
 * Cryptocurrency exchange is a business that allows customers to trade their cryptocurrency for other assets for example conventional fiat money or other digital currencies. <br/>
 * In our project we have assigned two hypothetical coins (namely: pumpcoin and napcoin; 1pumpcoin = 10napcoins) to each account running on the blockchain. 
