@@ -1,4 +1,7 @@
 # thats-a-hint
+
+<img width="100%" height = "100%" src="https://github.com/Tushargupta9800/thats-a-hint/blob/master/Screenshot%20from%202022-04-02%2023-26-41.png" alt="cover" />
+
 # Team - Algoristy
 
 ## members
